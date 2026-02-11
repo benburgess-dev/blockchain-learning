@@ -6,3 +6,4 @@ This repository documents my journey learning:
 - Hardhat
 - ethers.js
 Goal: Become a job-ready Web3 / Blockchain developer.
+ls
